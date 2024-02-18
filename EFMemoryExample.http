@@ -1,0 +1,6 @@
+@EFMemoryExample_HostAddress = http://localhost:5108
+
+GET {{EFMemoryExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
